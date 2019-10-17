@@ -8,7 +8,7 @@ TITLE:Property Realtor
 EMAIL;type=INTERNET;type=WORK;type=pref:ang.abrey@gmail.com
 EMAIL;type=INTERNET;type=WORK;type=pref:abrey.ang@orangetee.com
 TEL;type=WORK;type=VOICE:+65 8126 8664
-item1.ADR;type=WORK;type=pref:;;430 Lor 6 Toa Payoh\,OrangeTee Building\,;;;319402;Singapore
+item1.ADR;type=WORK;type=pref:;;430 Lorong 6 Toa Payoh;OrangeTee Building\,;;;319402;Singapore
 item1.X-ABADR:sg
 item2.URL;type=pref:facebook.com/ang.abrey
 item2.X-ABLabel:_$!<HomePage>!$_
